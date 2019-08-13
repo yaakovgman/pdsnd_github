@@ -14,6 +14,16 @@ The user was to be able to narrow results and specify which month and day of the
 
 Once they answered the 3 questions in the prompt about what city, month, and day they wanted to see the would get a bunch of really cool data points.
 
+#<**Hardware Needed**>
+-Computer
+-Wifi
+
+#<**Software Needed**>
+*Python
+*Terminal (for mac) or other
+*Atom or some code editor
+
+
 #<**Data**>
 There were three datasets from Chicago, New York, and Washington
 
