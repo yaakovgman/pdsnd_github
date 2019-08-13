@@ -20,7 +20,7 @@ def get_filters():
     while True:
         city = input("Are you excited to explore bikesahring data? /n Which city's data would you like to see? New York, Chicago, Washington (Choose one):").lower()
         if city not in ('new York', 'chicago', 'washington'):
-            print("\n(ERROR) Make sure you are using a capital letter for the first letter in each city: Ex. (N)ew (Y)ork.\n")
+            print("\n(ERROR) Hey, Make sure you are using a capital letter for the first letter in each city: Ex. (N)ew (Y)ork.\n")
         else:
             break
 
@@ -28,7 +28,7 @@ def get_filters():
     while True:
         month = input("Which month would you like to see? January, February, March, April, May, June or All (Choose one):").lower()
         if month not in ('january', 'february', 'march', 'april', 'may', 'june', 'all'):
-            print("\n(ERROR) Make sure you are using a capital letter for the first letter in each month: Ex. (J)une")
+            print("\n(ERROR) Hey, Make sure you are using a capital letter for the first letter in each month: Ex. (J)une")
         else:
             break
 
@@ -36,7 +36,7 @@ def get_filters():
     while True:
         day = input("Which day would you like to see? Sunday, Monday, Tuesday,        Wednesday, Thursday, Friday, Saturday, or All (Choose one):").lower()
         if day not in ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'all'):
-             print("\n(ERROR) Make sure you are using a capital letter for the first letter in each day: Ex. (S)unday")
+             print("\n(ERROR) Hey, Make sure you are using a capital letter for the first letter in each day: Ex. (S)unday")
         else:
             break
 
