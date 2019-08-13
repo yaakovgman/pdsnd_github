@@ -25,21 +25,20 @@ Once they answered the 3 questions in the prompt about what city, month, and day
 
 ## **Data**
 There were three datasets from Chicago, New York, and Washington
+This was the specific data shown when user completed questions:
 
-Specific data shown when user completed questions:
 
-
-## **Calendar Data**
+**Calendar Data**
 * Common Month
 * Common Day
 * Common Start Hour
 
-##**Station Data**
+**Station Data**
 * Most Common Start Station
 * Most Common End Station
 * Most Common Combination of Start and Stop Stations
 
-##**Travel Data**
+**Travel Data**
 * Total Travel Time
 * Average Travel Time
 
