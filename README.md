@@ -15,12 +15,12 @@ The user was to be able to narrow results and specify which month and day of the
 Once they answered the 3 questions in the prompt about what city, month, and day they wanted to see the would get a bunch of really cool data points.
 
 ## **Hardware Needed**
--Computer
--Wifi
+- Computer
+- Wifi
 
 ## **Software Needed**
-*Terminal (for mac) or other
-*Atom or some code editor
+* Terminal (for mac) or other
+* Atom or some code editor
 
 
 ## **Data**
@@ -30,20 +30,20 @@ Specific data shown when user completed questions:
 
 
 ## **Calendar Data**
-*Common Month
-*Common Day
-*Common Start Hour
+* Common Month
+* Common Day
+* Common Start Hour
 
-**Station Data**
-*Most Common Start Station
-*Most Common End Station
-*Most Common Combination of Start and Stop Stations
+##**Station Data**
+* Most Common Start Station
+* Most Common End Station
+* Most Common Combination of Start and Stop Stations
 
-**Travel Data**
-*Total Travel Time
-*Average Travel Time
+##**Travel Data**
+* Total Travel Time
+* Average Travel Time
 
 **User Data**
-*Number of Users
-*Counts of Gender
-*Earliest Most Recent, and Common Year of Birth
+* Number of Users
+* Counts of Gender
+* Earliest Most Recent, and Common Year of Birth
