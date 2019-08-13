@@ -14,23 +14,22 @@ The user was to be able to narrow results and specify which month and day of the
 
 Once they answered the 3 questions in the prompt about what city, month, and day they wanted to see the would get a bunch of really cool data points.
 
-#<**Hardware Needed**>
+## **Hardware Needed**
 -Computer
 -Wifi
 
-#<**Software Needed**>
-*Python
+## **Software Needed**
 *Terminal (for mac) or other
 *Atom or some code editor
 
 
-#<**Data**>
+## **Data**
 There were three datasets from Chicago, New York, and Washington
 
 Specific data shown when user completed questions:
 
 
-**Calendar Data**
+## **Calendar Data**
 *Common Month
 *Common Day
 *Common Start Hour
